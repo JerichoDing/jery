@@ -22,6 +22,9 @@
     "type": "git",
     "url": "https://github.com/JerichoDing/jery"
   },
+  "bugs": {
+    "url": "https://github.com/JerichoDing/jery/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.1.0",
