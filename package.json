@@ -1,6 +1,6 @@
 {
   "name": "jery",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
