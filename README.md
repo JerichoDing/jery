@@ -3,7 +3,7 @@
 
 > 想不起来其他名字，以这个命名吧~
 
-如何安装？
+如何安装？  
 
 ```shell
 npm install jery -g
